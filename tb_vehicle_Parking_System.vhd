@@ -1,8 +1,4 @@
 
--- Md. Nazmush Shakib Shahi
--- Islamic University of Technology (IUT)
--- Testbench code of "Automated vehicle parking management system"
-
 library ieee;
 use ieee.std_logic_1164.all;
  
